@@ -20,7 +20,7 @@ Overview of test cases to automate Parfois website:
     - ![TestSearch](https://github.com/user-attachments/assets/69b86dcb-b0c6-4d9c-bfac-23e8ef6a4c8d)
 - Shop Product:
     - Navigate to Watches Category, Select Silver Watches, Product Display Verification
-    - ![Uploading ShopProduct.png…]()
+    - ![ShopProduct](https://github.com/user-attachments/assets/8bc47be5-3ed9-4f90-8a61-3468d11fc4e0)
 - Base Test:
     - Page Loading and Element Initialization, Page Transitions and Actions.
  
