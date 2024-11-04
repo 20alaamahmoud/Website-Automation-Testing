@@ -12,9 +12,13 @@ Overview of test cases to automate Parfois website:
     - Select Product, Add to Basket, Open Basket, Update Quantity, Remove Item.
 - Add to Favorite:
     - Add Product to Favorites, Remove Product from Favorites, View Favorites.
+    - ![addToFavorite](https://github.com/user-attachments/assets/1000b6b7-a00c-46b1-832b-358d611252d5)
 - Search Result:
     - Open Product from Search Results, Product Details Verification.
+    - ![TestSearch](https://github.com/user-attachments/assets/69b86dcb-b0c6-4d9c-bfac-23e8ef6a4c8d)
 - Shop Product:
     - Navigate to Watches Category, Select Silver Watches, Product Display Verification.
 - Base Test:
     - Page Loading and Element Initialization, Page Transitions and Actions.
+ 
+  
